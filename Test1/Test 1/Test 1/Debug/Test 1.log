@@ -1,0 +1,5 @@
+﻿  main.c
+f:\my documents\danh imic\test1\test 1\test 1\main.c(12): warning C4244: '=': conversion from 'uint16_t' to 'uint8_t', possible loss of data
+f:\my documents\danh imic\test1\test 1\test 1\main.c(22): warning C4477: 'scanf_s' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'uint16_t *'
+  f:\my documents\danh imic\test1\test 1\test 1\main.c(22): note: consider using '%hd' in the format string
+  Test 1.vcxproj -> F:\My Documents\Danh IMIC\Test1\Test 1\Debug\Test 1.exe
